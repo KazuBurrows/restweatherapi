@@ -1,0 +1,12 @@
+[
+    {
+        "icons": [
+            {
+                "clear sky": "https://about.metservice.com/assets/img/icon-exp/_resampled/resizedimage5555-ic-condition-fine-tiny-2.png",
+                "partly cloudy": "https://about.metservice.com/assets/img/icon-exp/ic-condition-partly-cloudy-tiny-2.png",
+                "rain": "https://about.metservice.com/assets/img/icon-exp/ic-condition-rain-tiny-2.png",
+                "snow": "https://about.metservice.com/assets/img/icon-exp/ic-condition-snow-tiny.png"
+            }
+        ]
+    }
+]

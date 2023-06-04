@@ -1,0 +1,56 @@
+[
+    {
+        "country": "New Zealand",
+        "city": "Christchurch",
+        "suburb": "Riccarton",
+        "forecast": [
+            {
+                "temp": 20,
+                "main": "clear sky",
+                "wind": 16,
+                "precipitation": 0
+            }
+        ]
+    },
+    {
+        "country": "New Zealand",
+        "city": "Christchurch",
+        "suburb": "CBD",
+        "forecast": [
+            {
+                "temp": 6,
+                "main": "rain",
+                "wind": 1,
+                "precipitation": 30
+            }
+        ]
+    },
+    {
+        "country": "New Zealand",
+        "city": "Auckland",
+        "suburb": "Ponsonby",
+        "forecast": [
+            {
+                "temp": 12,
+                "main": "partly cloudy",
+                "wind": 20,
+                "precipitation": 1
+            }
+        ]
+    },
+    {
+        "country": "Japan",
+        "city": "Osaka",
+        "suburb": "Ikeda",
+        "forecast": [
+            {
+                "temp": -3,
+                "main": "snow",
+                "wind": 2,
+                "precipitation": 0.4
+            }
+        ]
+    }
+
+
+]

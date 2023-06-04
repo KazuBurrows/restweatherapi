@@ -1,0 +1,17 @@
+[
+    {
+        "country": "New Zealand",
+        "city": "Christchurch",
+        "suburb": "Riccarton",
+        "forecast": [
+                {"day": "mon", "temp": -3, "main": "snow", "wind": 1, "precipitation": 0},
+                {"day": "tue", "temp": -3, "main": "snow", "wind": 1, "precipitation": 0},
+                {"day": "wed", "temp": -1, "main": "partly cloudy", "wind": 1, "precipitation": 0},
+                {"day": "thu", "temp": 2, "main": "snow", "wind": 1, "precipitation": 0},
+                {"day": "fri", "temp": 1, "main": "snow", "wind": 1, "precipitation": 0},
+                {"day": "sat", "temp": 0, "main": "partly cloudy", "wind": 1, "precipitation": 0},
+                {"day": "sun", "temp": -1, "main": "snow", "wind": 1, "precipitation": 0.4}
+            
+        ]
+    }
+]

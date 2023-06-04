@@ -1,0 +1,65 @@
+[
+    {
+        "country": "New Zealand",
+        "city": "Christchurch",
+        "suburb": "Riccarton",
+        "forecast": [
+                {"time": "00:00", "temp": 6, "main": "rain", "wind": 1, "precipitation": 30},
+                {"time": "04:00", "temp": 6, "main": "rain", "wind": 1, "precipitation": 25},
+                {"time": "08:00", "temp": 7, "main": "rain", "wind": 1, "precipitation": 5},
+                {"time": "12:00", "temp": 12, "main": "clear sky", "wind": 1, "precipitation": 0},
+                {"time": "16:00", "temp": 15, "main": "rain", "wind": 1, "precipitation": 0},
+                {"time": "20:00", "temp": 13, "main": "rain", "wind": 1, "precipitation": 0},
+                {"time": "24:00", "temp": 7, "main": "rain", "wind": 1, "precipitation": 0.4}
+        ]
+    },
+    {
+        "country": "New Zealand",
+        "city": "Christchurch",
+        "suburb": "CBD",
+        "forecast": [
+            {
+                "00": [{"temp": 7, "main": "partly cloudy", "wind": 1, "precipitation": 1}],
+                "04": [{"temp": 6, "main": "partly cloudy", "wind": 1, "precipitation": 0}],
+                "08": [{"temp": 7, "main": "partly cloudy", "wind": 1, "precipitation": 0}],
+                "12": [{"temp": 5, "main": "partly cloudy", "wind": 1, "precipitation": 3}],
+                "16": [{"temp": 4, "main": "rain", "wind": 1, "precipitation": 15}],
+                "20": [{"temp": 4, "main": "rain", "wind": 1, "precipitation": 14}],
+                "24": [{"temp": 3, "main": "partly cloudy", "wind": 1, "precipitation": 2}]
+            }
+        ]
+    },
+    {
+        "country": "New Zealand",
+        "city": "Auckland",
+        "suburb": "Ponsonby",
+        "forecast": [
+            {
+                "00": [{"temp": 18, "main": "clear sky", "wind": 10, "precipitation": 0}],
+                "04": [{"temp": 17, "main": "clear sky", "wind": 11, "precipitation": 0}],
+                "08": [{"temp": 18, "main": "clear sky", "wind": 9, "precipitation": 0}],
+                "12": [{"temp": 24, "main": "clear sky", "wind": 16, "precipitation": 0}],
+                "16": [{"temp": 27, "main": "clear sky", "wind": 15, "precipitation": 0}],
+                "20": [{"temp": 25, "main": "clear sky", "wind": 8, "precipitation": 0}],
+                "24": [{"temp": 19, "main": "clear sky", "wind": 9, "precipitation": 0}]
+            }
+        ]
+    },
+    {
+        "country": "Japan",
+        "city": "Osaka",
+        "suburb": "Ikeda",
+        "forecast": [
+            {
+                "00": [{"temp": -3, "main": "snow", "wind": 1, "precipitation": 0}],
+                "04": [{"temp": -3, "main": "snow", "wind": 1, "precipitation": 0}],
+                "08": [{"temp": -1, "main": "partly cloudy", "wind": 1, "precipitation": 0}],
+                "12": [{"temp": 2, "main": "snow", "wind": 1, "precipitation": 0}],
+                "16": [{"temp": 1, "main": "snow", "wind": 1, "precipitation": 0}],
+                "20": [{"temp": 0, "main": "partly cloudy", "wind": 1, "precipitation": 0}],
+                "24": [{"temp": -1, "main": "snow", "wind": 1, "precipitation": 0.4}]
+            }
+        ]
+    }
+
+]
